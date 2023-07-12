@@ -52,7 +52,7 @@ function TimelineSection() {
              
               {/* right */}
               <div className='relative shadow-2xl'>
-                 <img src={codingph}
+                 <img src={codingph} alt = 'abc'
                  className='shadow-2xl object-cover h-fit  rounded-4'/>
                     
                     <div className='absolute bg-cyan-700 flex flex-row text-white py-10 uppercase
